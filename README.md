@@ -6,9 +6,13 @@ In this paper, we ranked inhaled corticosteroid (ICS) response-associated varian
 
 ## Files
 
-* GSK.score.txt: scores of 4,468 GSK variants in each omics layer
+* GSK.score.txt: scores of 4,468 GSK variants based on 1000 Genome Project EUR reference panel in each omics layer
 
-* GSK.score.perm.res: permutation results of 4,468 GSK variants
+* GSK.score.perm.res: permutation results of 4,468 GSK variants based on 1000 Genome Project EUR reference panel
+
+* GSK_cos.score.txt: scores of 2,822 GSK variants based on 1000 Genome Project cosmopolitan reference panel in each omics layer
+
+* GSK_cos.score.perm.res: permutation results of 2,822 GSK variants based on 1000 Genome Project cosmopolitan reference panel
 
 * GSK.cand.score.txt: scores of 4,468 GSK and 4,271 non-GSK variants in each omics layer
 
